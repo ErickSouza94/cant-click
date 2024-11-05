@@ -6,3 +6,5 @@ No caso, o contêiner #buttons é escondido e exibido o contêiner #gif quando o
 Posicionamento aleatório de elementos na tela com Math.random();
 window.innerWidth e window.innerHeight foram usados para garantir que a posição gerada respeite as dimensões da tela, 
 mantendo o botão visível dentro da área da janela.
+
+https://ericksouza94.github.io/cant-click/
