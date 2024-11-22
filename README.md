@@ -1,10 +1,15 @@
-Página onde o objetivo é clicar no botão "Não".
-Foi utlizado HTML, CSS e JavaScript para este projeto.
-Neste projeto estudo manipulação de eventos através do addEventListener;
-Manipulação de propriedades de estilo (display) de elementos HTML para ocultar e exibir conteúdo dinamicamente. 
-No caso, o contêiner #buttons é escondido e exibido o contêiner #gif quando o botão "Sim" é clicado;
-Posicionamento aleatório de elementos na tela com Math.random();
-window.innerWidth e window.innerHeight foram usados para garantir que a posição gerada respeite as dimensões da tela, 
-mantendo o botão visível dentro da área da janela.
+# Cant Click
 
-https://ericksouza94.github.io/cant-click/
+## 📚 Descrição
+
+A proposta do site é criar uma interface em que os elementos aparentemente funcionais estão bloqueados, simulando uma experiência onde o usuário é limitado em suas ações.
+
+### Funcionalidades Principais
+- Design minimalista com botões e links que não executam ações convencionais.
+- Mensagens dinâmicas informando que a interação está bloqueada.
+
+## 🚀 Tecnologias Utilizadas
+
+- <strong>HTML5 e CSS3:</strong> Para a criação de uma estrutura visual simples e estilizada.
+- <strong>JavaScript:</strong> Para gerenciar as interações simuladas.
+
